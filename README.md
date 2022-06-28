@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Nodejs.
-🎓 Have experience in aws sam, Django, aws lambda in golang and nodejs, React, Vue
+- 🔭 I’m currently working on Nodejs.
+- 🎓 Have experience in aws sam, Django, aws lambda in golang and nodejs, React, Vue
 
 <!--
 **Nitheesh-Iderize/Nitheesh-Iderize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
